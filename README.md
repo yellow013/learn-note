@@ -50,4 +50,15 @@ Share0 —— Cassandra database & Time series data
 
 Share1——Concurrent programming & Thread safety
 -
+0.并发编程模型
+- 线程与锁
+- Actor模型
+- SCP模型
+- STM模型
 
+1.常用技术
+- Lock
+- CAS
+- Queue
+- ThreadLocal
+- ……
