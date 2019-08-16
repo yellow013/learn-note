@@ -3,4 +3,4 @@
 
 - [RiskModule](https://github.com/yellow013/shares/blob/master/RiskModule.md)
 
-- [TechnologySharing0](https://github.com/yellow013/shares/blob/master/TechnologySharing0.md)
+- [TechnologySharing0](https://github.com/yellow013/learn-note/blob/master/Cassandra%26Time_series_database.md)
