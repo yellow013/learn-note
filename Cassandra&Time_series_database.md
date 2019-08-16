@@ -1,4 +1,4 @@
-Share0 —— Cassandra database & Time series data
+Cassandra & Time series database
 -
 0.NoSQL数据库概述
 - RDB的局限性
