@@ -1,6 +1,9 @@
 命令提示软件:
+
 yum install epel-release -y
+
 yum install bash-completion -y
+
 
 光标移动:
 
